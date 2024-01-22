@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a586227b.css",
-    "main.js": "/static/js/main.1c89ab08.js",
-    "static/js/787.c6aa6761.chunk.js": "/static/js/787.c6aa6761.chunk.js",
-    "static/media/home.png": "/static/media/home.ad9517d3da5c58d74d32.png",
-    "static/media/ikura.png": "/static/media/ikura.f686d8c54701282b3a6f.png",
-    "static/media/ayase.png": "/static/media/ayase.55797defaa9a316ea88b.png",
-    "index.html": "/index.html",
-    "main.a586227b.css.map": "/static/css/main.a586227b.css.map",
-    "main.1c89ab08.js.map": "/static/js/main.1c89ab08.js.map",
-    "787.c6aa6761.chunk.js.map": "/static/js/787.c6aa6761.chunk.js.map"
+    "main.css": "/railway-ssr-app/static/css/main.20eff8fa.css",
+    "main.js": "/railway-ssr-app/static/js/main.5f39325d.js",
+    "static/js/787.c6aa6761.chunk.js": "/railway-ssr-app/static/js/787.c6aa6761.chunk.js",
+    "static/media/home.png": "/railway-ssr-app/static/media/home.ad9517d3da5c58d74d32.png",
+    "static/media/ikura.png": "/railway-ssr-app/static/media/ikura.f686d8c54701282b3a6f.png",
+    "static/media/ayase.png": "/railway-ssr-app/static/media/ayase.55797defaa9a316ea88b.png",
+    "index.html": "/railway-ssr-app/index.html",
+    "main.20eff8fa.css.map": "/railway-ssr-app/static/css/main.20eff8fa.css.map",
+    "main.5f39325d.js.map": "/railway-ssr-app/static/js/main.5f39325d.js.map",
+    "787.c6aa6761.chunk.js.map": "/railway-ssr-app/static/js/787.c6aa6761.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a586227b.css",
-    "static/js/main.1c89ab08.js"
+    "static/css/main.20eff8fa.css",
+    "static/js/main.5f39325d.js"
   ]
 }
