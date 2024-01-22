@@ -48,5 +48,6 @@
   },
   "devDependencies": {
     "prettier": "3.2.4"
-  }
+  },
+  "homepage": "https://noriakiotsuka.github.io/railway-ssr-app/"
 }
